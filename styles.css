@@ -1,0 +1,33 @@
+
+        body{
+                background-color:  #e6ffff
+            }
+        hr{
+            
+            border-style: dotted none none none;
+            border-width: 5px;
+            height: 0px;
+            border-color: grey;
+            width: 10%;
+        }
+       p{
+        font-family: Helvetica;
+
+       }
+       table{
+        font-family: Helvetica;
+
+       }
+       form{
+        font-family: Helvetica;
+
+       }
+       input{
+        background-color: whitesmoke;
+        
+       }
+       a{
+        font-family: Helvetica;
+
+       }
+
